@@ -22,7 +22,10 @@ This **HR Analytics Dashboard** provides insights into employee attrition, demog
 - The dataset includes **employee demographics, job roles, attrition status, and satisfaction ratings**.  
 - The data is structured to provide **HR insights into employee retention and engagement**.  
 
+## 📸 Screenshots  
 
+### Dashboard  
+![Overview](https://github.com/sofoq/HR-Analytics-Project/blob/main/Analytics.png)  
 
 
 
