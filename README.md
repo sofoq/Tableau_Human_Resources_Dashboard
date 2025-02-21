@@ -23,7 +23,7 @@ This **HR Analytics Dashboard** provides insights into employee attrition, demog
 - The data is structured to provide **HR insights into employee retention and engagement**.  
 
 
-## 👤 Author  
+
 **Sofo Qaadze**  
 📧 sqaadze2000@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)  
