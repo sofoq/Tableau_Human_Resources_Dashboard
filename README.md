@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard  
+# 📊 Human Resources Dashboard
 
 ## 📌 Project Overview  
 This **HR Analytics Dashboard** provides insights into employee attrition, demographics, and job satisfaction. The dashboard helps HR professionals identify trends and make data-driven decisions to improve employee retention and engagement.  
