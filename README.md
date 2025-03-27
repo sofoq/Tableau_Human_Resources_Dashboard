@@ -29,8 +29,3 @@ This **HR Analytics Dashboard** provides insights into employee attrition, demog
 
 
 
-
-
-**Sofo Qaadze**  
-📧 sqaadze2000@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)  
