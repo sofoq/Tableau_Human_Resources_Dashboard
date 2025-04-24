@@ -3,6 +3,11 @@
 ## 📌 Project Overview  
 This **HR Analytics Dashboard** provides insights into employee attrition, demographics, and job satisfaction. The dashboard helps HR professionals identify trends and make data-driven decisions to improve employee retention and engagement.  
 
+## 🔗 Live Demo  
+Check out the dashboard here: [Human Resources Dashboard](
+https://public.tableau.com/views/HRAnalyticsProject_17422060597260/HRAnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## 📈 Key Metrics (KPIs)  
 - **Employee Count** – Total number of employees.  
 - **Attrition Count** – Number of employees who left the company.  
